@@ -3,13 +3,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryanlucas-ti/)
 [![Website](https://img.shields.io/badge/Portfolio-GitHub-black?logo=github&logoColor=white)](https://github.com/RLuk97)
 
-Sou Dev Jr focado em desenvolvimento web full‑stack com preferência por aplicações JavaScript/TypeScript. Gosto de transformar ideias em interfaces funcionais e APIs eficientes — sempre aprendendo e aplicando boas práticas.
+Sou Dev Jr focado em desenvolvimento web full‑stack com preferência por aplicações JavaScript/TypeScript. Gosto de transformar ideias em interfaces funcionais e APIs eficientes, sempre aprendendo e aplicando boas práticas.
 
 ---
 
 ## 🚀 Tecnologias & Ferramentas
-- Linguagens: JavaScript, TypeScript, HTML, CSS
-- Front-end: React.js, Bootstrap
+- Front-end: HTML, CSS, JavaScript, TypeScript, ReactJS, Tailwind CSS
 - Back-end: Node.js
 - Bancos de dados: SQL Server, SQLite
 - Outras: Git, GitHub Pages, Vercel
@@ -20,13 +19,13 @@ Sou Dev Jr focado em desenvolvimento web full‑stack com preferência por aplic
 
 - Sistema-de-login-e-cadastro  
   Descrição: Praticando FullStack — sistema de login e cadastro.  
-  Linguagem principal: JavaScript  
+  Linguagem principal: React.Js e Node.Js  
   Demo/Website: https://sistema-de-login-e-cadastro-navy.vercel.app  
   Repositório: https://github.com/RLuk97/Sistema-de-login-e-cadastro
 
 - SistemaDeListaDeTarefas  
   Descrição: Teste para uma vaga de Front‑End — lista de tarefas com deploy no GitHub Pages.  
-  Linguagem principal: CSS / HTML / JavaScript  
+  Linguagem principal: React.Js
   Demo/Website: https://rluk97.github.io/SistemaDeListaDeTarefas/  
   Repositório: https://github.com/RLuk97/SistemaDeListaDeTarefas
 
