@@ -17,11 +17,12 @@ Sou Dev Jr focado em desenvolvimento web full‑stack com preferência por aplic
 
 ## ⭐ Projetos em destaque (repositórios públicos)
 
-- Sistema-de-login-e-cadastro  
-  Descrição: Praticando FullStack — sistema de login e cadastro.  
+- GestãoDeFrota
+  Descrição: Aplicação full stack desenvolvida com React.js e Node.js, que permite gerenciar clientes, veículos, serviços e gastos de manutenção, com histórico detalhado por veículo.
+  Login de acesso: usuário - Admin | senha - admin123.  
   Linguagem principal: React.Js e Node.Js  
-  Demo/Website: https://sistema-de-login-e-cadastro-navy.vercel.app  
-  Repositório: https://github.com/RLuk97/Sistema-de-login-e-cadastro
+  Demo/Website: https://gestfrota.vercel.app/  
+  Repositório: https://github.com/RLuk97/GestãoDeFrota
 
 - SistemaDeListaDeTarefas  
   Descrição: Teste para uma vaga de Front‑End — lista de tarefas com deploy no GitHub Pages.  
