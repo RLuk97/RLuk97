@@ -17,7 +17,7 @@ Sou Dev Jr focado em desenvolvimento web full‑stack com preferência por aplic
 
 ## ⭐ Projetos em destaque (repositórios públicos)
 
-- GestãoDeFrota
+- GestãoDeFrota  
   Descrição: Aplicação full stack desenvolvida com React.js e Node.js, que permite gerenciar clientes, veículos, serviços e gastos de manutenção, com histórico detalhado por veículo.
   Login de acesso: usuário - Admin | senha - admin123.  
   Linguagem principal: React.Js e Node.Js  
