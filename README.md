@@ -9,7 +9,7 @@ Sou Dev Jr focado em desenvolvimento web full‑stack com preferência por aplic
 
 ## 🚀 Tecnologias & Ferramentas
 - Front-end: HTML, CSS, JavaScript, TypeScript, ReactJS, Tailwind CSS
-- Back-end: Node.js
+- Back-end: Node.js, Python
 - Bancos de dados: SQL Server, SQLite
 - Outras: Git, GitHub Pages, Vercel
 
