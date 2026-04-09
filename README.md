@@ -1,7 +1,7 @@
 # Olá, eu sou o Ryan Lucas (RLuk97) 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryanlucas-ti/)
-[![Website](https://img.shields.io/badge/Portfolio-GitHub-black?logo=github&logoColor=white)](https://github.com/RLuk97)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Conversar-25D366?logo=whatsapp&logoColor=white)](https://wa.me/5592984322839)
 
 Sou Desenvolvedor Full Stack focado na criação de soluções escaláveis e seguras. Atualmente, trabalho com administração de infraestrutura e suporte de 2º nível no Atacadão , além de liderar projetos sob medida na RLD Code. Tenho forte experiência em transformar requisitos de negócio em arquiteturas técnicas eficientes.
 
@@ -22,18 +22,18 @@ Sou Desenvolvedor Full Stack focado na criação de soluções escaláveis e seg
   Aplicação Full Stack de alta performance para gestão de ativos.
   - **Destaque:** Arquitetura baseada em Docker, autenticação Sanctum e controle de permissões ACL.
   - **Tech Stack:** Laravel 11, Vue.js 3, Docker e MySQL.
-  - **Repositório:** github.com/RLuk97/Innyx
+  - **Repositório:** [github.com/RLuk97/Innyx](https://github.com/RLuk97/Innyx)
 
 - SaaS PetClinic
   Plataforma completa para gestão de clínicas veterinárias.
   - **Destaque:** Dashboard administrativo complexo com tipagem estática rigorosa.
   - **Tech Stack:** React.js, TypeScript e Tailwind CSS.
-  - **Repositório:** github.com/RLuk97/SaaS-PetClinic
+  - **Repositório:** [https://github.com/RLuk97/SaaS-PetClinic](https://github.com/RLuk97/SaaS-PetClinic)
 
 - Gestão de Frota
   Sistema para organização de veículos e manutenções com foco em regras de negócio.
   - **Tech Stack:** React.js, Node.js e SQL.
-  - **Demo:** gestfrota.vercel.app
+  - **Demo:** [gestfrota.vercel.app](https://gestfrota.vercel.app/)
 
 ---
 
