@@ -3,54 +3,56 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryanlucas-ti/)
 [![Website](https://img.shields.io/badge/Portfolio-GitHub-black?logo=github&logoColor=white)](https://github.com/RLuk97)
 
-Sou Dev Jr focado em desenvolvimento web full‑stack com preferência por aplicações JavaScript/TypeScript. Gosto de transformar ideias em interfaces funcionais e APIs eficientes, sempre aprendendo e aplicando boas práticas.
+Sou Desenvolvedor Full Stack focado na criação de soluções escaláveis e seguras. Atualmente, trabalho com administração de infraestrutura e suporte de 2º nível no Atacadão , além de liderar projetos sob medida na RLD Code. Tenho forte experiência em transformar requisitos de negócio em arquiteturas técnicas eficientes.
 
 ---
 
 ## 🚀 Tecnologias & Ferramentas
-- Front-end: HTML, CSS, JavaScript, TypeScript, ReactJS, Tailwind CSS
-- Back-end: Node.js, Python
-- Bancos de dados: SQL Server, SQLite
-- Outras: Git, GitHub Pages, Vercel
+- **Linguagens & Frameworks:** PHP 8.3 (Laravel 11), JavaScript/TypeScript, Node.js, React.js, Vue.js 3.
+- **Estilização:** Tailwind CSS, Bootstrap, CSS3.
+- **Banco de Dados:** SQL Server, MySQL, SQLit
+- **Infraestrutura & DevOps:** Docker (Containers), Git, GitHub, Grafana (Monitoramento).
+- **Automação:** Power Platform (Power Apps & Power Automate)
 
 ---
 
 ## ⭐ Projetos em destaque (repositórios públicos)
 
-- GestãoDeFrota  
-  Descrição: Aplicação full stack desenvolvida com React.js e Node.js, que permite gerenciar clientes, veículos, serviços e gastos de manutenção, com histórico detalhado por veículo.
-  Login de acesso: usuário - Admin | senha - admin123.  
-  Linguagem principal: React.Js e Node.Js  
-  Demo/Website: https://gestfrota.vercel.app/  
-  Repositório: https://github.com/RLuk97/GestãoDeFrota
+- Inventário de Ativos
+  Aplicação Full Stack de alta performance para gestão de ativos.
+  - **Destaque:** Arquitetura baseada em Docker, autenticação Sanctum e controle de permissões ACL.
+  - **Tech Stack:** Laravel 11, Vue.js 3, Docker e MySQL.
+  - **Repositório:** github.com/RLuk97/Innyx
 
-- SistemaDeListaDeTarefas  
-  Descrição: Teste para uma vaga de Front‑End — lista de tarefas com deploy no GitHub Pages.  
-  Linguagem principal: React.Js
-  Demo/Website: https://rluk97.github.io/SistemaDeListaDeTarefas/  
-  Repositório: https://github.com/RLuk97/SistemaDeListaDeTarefas
+- SaaS PetClinic
+  Plataforma completa para gestão de clínicas veterinárias.
+  - **Destaque:** Dashboard administrativo complexo com tipagem estática rigorosa.
+  - **Tech Stack:** React.js, TypeScript e Tailwind CSS.
+  - **Repositório:** github.com/RLuk97/SaaS-PetClinic
 
-Observação: eu também trabalho em outros repositórios (alguns privados), como projetos de TCC e um SaaS PetClinic em TypeScript.
-
----
-
-## 💡 O que eu faço bem
-- Construção de interfaces responsivas com HTML/CSS/Bootstrap e React.
-- Desenvolvimento de APIs simples em Node.js e integração com bancos SQL.
-- Tipagem com TypeScript para maior robustez em projetos front/back.
+- Gestão de Frota
+  Sistema para organização de veículos e manutenções com foco em regras de negócio.
+  - **Tech Stack:** React.js, Node.js e SQL.
+  - **Demo:** gestfrota.vercel.app
 
 ---
 
-## 🎯 Objetivos
-- Evoluir como desenvolvedor full‑stack (mais TypeScript e arquiteturas escaláveis).
-- Contribuir para projetos open source e colaborar em times ágeis.
-- Aprender patterns de testes e práticas de CI/CD.
+## Competências Técnicas
+- **Desenvolvimento Full Stack:** Construção de APIs robustas e SPAs modernas.
+- **Arquitetura & Qualidade:** Evoluindo constantemente em práticas de Clean Architecture e código limpo.
+- **Análise de Sistemas:** Levantamento de requisitos e modelagem de dados relacionais.
 
 ---
 
-## 📫 Como me encontrar
-- LinkedIn: https://www.linkedin.com/in/ryanlucas-ti/  
-- GitHub: https://github.com/RLuk97  
-- WhatsApp: [Conversar no WhatsApp](https://wa.me/5592984322839) (92 98432-2839)
+## 🎯 Objetivos para 2026
+- Aprofundar conhecimentos em arquiteturas distribuídas e escalabilidade.
+- Integrar práticas avançadas de CI/CD em meus fluxos de trabalho.
+- Contribuir para o ecossistema open source.
+
+---
+
+## Vamos conversar?
+- **LinkedIn:** linkedin.com/in/ryanlucas-ti/ 
+- **WhatsApp:** [Conversar no WhatsApp](https://wa.me/5592984322839) (92 98432-2839)
 
 Obrigado por visitar meu perfil — bora construir algo juntos! 🚀
